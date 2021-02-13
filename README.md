@@ -3,7 +3,8 @@
 ##### I attend the University of Ottawa's Honours Computer Science BSc program as an international student.
 
 ![imaalej's GitHub stats](https://github-readme-stats.vercel.app/api?username=imaalej&count_private=true&show_icons=true&theme=great-gatsby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imaalej&exclude_repo=https://github.com/imaalej/SurgeMedical_Site.git)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imaalej&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--![imaalej's Github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imaalej&theme=great-gatsby&count_private=true)>
 
 <!--
